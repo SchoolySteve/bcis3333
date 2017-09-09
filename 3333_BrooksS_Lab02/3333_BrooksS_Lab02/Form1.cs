@@ -2,7 +2,7 @@
 Stephen Brooks
 000571395
 9/8/2017
-9/12/2017
+9/14/2017
 3 Card Monty without 3 cards... or Monty...
  */
 using System;
